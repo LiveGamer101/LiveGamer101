@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @LiveGamer101
+- 👀 I’m interested in ML and API development
+- 🌱 I’m currently learning python,node,etc
+- 💞️ I’m looking to collaborate on nothing yet
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am the founder of Hecker AI
